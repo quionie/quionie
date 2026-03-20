@@ -40,53 +40,6 @@ Learning by building, breaking, and iterating in public.
 
 ---
 
-### projects
-
-<table>
-<tr>
-<td width="50%">
-
-**[claude-content-engine](https://github.com/quionie/claude-content-engine)**
-Content engine for Claude Code — 8 skills, persistent memory, and built-in slop detector.
-
-![Stars](https://img.shields.io/github/stars/quionie/claude-content-engine?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/quionie/claude-content-engine?style=flat-square&color=blue)
-
-</td>
-<td width="50%">
-
-**[outreach-ai](https://github.com/quionie/outreach-ai)**
-AI-powered outreach automation that doesn't sound like a robot.
-
-![Stars](https://img.shields.io/github/stars/quionie/outreach-ai?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/quionie/outreach-ai?style=flat-square&color=blue)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[prompt-lint](https://github.com/quionie/prompt-lint)**
-Catch bad prompts before they ship. Linting for the AI era.
-
-![Stars](https://img.shields.io/github/stars/quionie/prompt-lint?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/quionie/prompt-lint?style=flat-square&color=blue)
-
-</td>
-<td width="50%">
-
-**[ai-token-counter](https://github.com/quionie/ai-token-counter)**
-Count tokens across models. Know your costs before you call.
-
-![Stars](https://img.shields.io/github/stars/quionie/ai-token-counter?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/quionie/ai-token-counter?style=flat-square&color=blue)
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
 <br />
