@@ -13,8 +13,8 @@
 
 ### now
 
-Building AI agents at **[Flora](https://flora.build)** with a ridiculously talented team.
-Shipping side projects in public. Marketing brain, engineering hands.
+Building AI agents at **[Flora Network](https://flora.build)** with a ridiculously talented team.
+Learning by building, breaking, and iterating in public.
 
 ---
 
@@ -31,7 +31,7 @@ Shipping side projects in public. Marketing brain, engineering hands.
 ![Claude](https://img.shields.io/badge/Claude-d4a27f?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -86,6 +86,5 @@ Count tokens across models. Know your costs before you call.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quionie&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=cdd6f4&icon_color=f5c2e7&ring_color=f5c2e7&hide_rank=true)
 
-*i vibe code things into existence.*
 
 </div>
