@@ -46,11 +46,11 @@ Learning by building, breaking, and iterating in public.
 <tr>
 <td width="50%">
 
-**[claude-skill-pack](https://github.com/quionie/claude-skill-pack)**
-Curated skills for Claude Code — plug-and-play workflows for devs.
+**[claude-content-engine](https://github.com/quionie/claude-content-engine)**
+Content engine for Claude Code — 8 skills, persistent memory, and built-in slop detector.
 
-![Stars](https://img.shields.io/github/stars/quionie/claude-skill-pack?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/quionie/claude-skill-pack?style=flat-square&color=blue)
+![Stars](https://img.shields.io/github/stars/quionie/claude-content-engine?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/quionie/claude-content-engine?style=flat-square&color=blue)
 
 </td>
 <td width="50%">
