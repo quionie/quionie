@@ -1,11 +1,16 @@
 <div align="center">
 
-# quionie
+<img src="header.svg" width="100%" alt="quionie — marketing & growth meets code" />
 
-**marketing & growth meets code.** i build, break, and fix things with AI.
+<br />
 
-[![Website](https://img.shields.io/badge/quionie.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://quionie.com)
-[![X](https://img.shields.io/badge/@quionie-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/quionie)
+<p>
+  <samp>i build, break, and fix things with AI.</samp>
+</p>
+
+<p>
+  <a href="https://quionie.com">quionie.com</a> · <a href="https://x.com/quionie">@quionie</a>
+</p>
 
 </div>
 
