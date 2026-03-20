@@ -89,7 +89,10 @@ Count tokens across models. Know your costs before you call.
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quionie&theme=transparent&hide_border=true&ring=e6edf3&fire=e6edf3&currStreakLabel=7d8590&sideLabels=7d8590&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58)
+<br />
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quionie&theme=transparent&hide_border=true&ring=D4773E&fire=D4773E&currStreakLabel=7d8590&sideLabels=7d8590&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&stroke=30363d)
+
+<br />
 
 </div>
