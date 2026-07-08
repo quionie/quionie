@@ -7,6 +7,5 @@
     </linearGradient>
   </defs>
   <rect width="900" height="160" rx="8" fill="url(#grad)"/>
-  <text x="450" y="90" font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="36" font-weight="700" fill="#fff" text-anchor="middle">quionie</text>
-  <text x="450" y="120" font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="14" fill="rgba(255,255,255,0.7)" text-anchor="middle">marketing &amp; growth meets code</text>
+  <text x="450" y="80" font-family="'SF Mono', 'Fira Code', 'Courier New', monospace" font-size="42" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central" letter-spacing="6">QUIONIE</text>
 </svg>
